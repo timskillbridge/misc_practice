@@ -7,3 +7,6 @@ console.log("JavaScript code block")
 def codeblock_example():
     print("python code block")
 ```
+
+
+This is Chase adding text to the bottom of this file
